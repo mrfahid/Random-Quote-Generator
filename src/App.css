@@ -125,4 +125,8 @@ body{
     width: 300px;
     height: 300px;
   }
+  .btn {
+    position: fixed;
+    bottom: 31%;
+  }
 }
